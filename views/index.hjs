@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+
+   <title>User Experience</title>
+
+    <link rel='stylesheet' href='/stylesheets/grayscale.css' />
+
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Custom Hover Effects CSS -->
+  <link href="stylesheets/hover-min.css" rel="stylesheet">
+
+
+
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="/stylesheets/dabblet.css"  media="screen" title="no title" charset="utf-8">
+  <link rel="stylesheet" href="/stylesheets/main.css"  media="screen" title="no title" charset="utf-8">
+
+  </head>
+  <body>
+
+  <div id="title" class="slide header">
+
+
+    <h1 class="int">LUX QUADS</h1>
+
+  </div>
+
+  <div id="slide1" class="slide">
+    <div class="title">
+      <h1>Slide 1</h1>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
+      postulant mnesarchum cu nam. Malis movet ornatus id vim, feugait detracto est ea, eam
+      eruditi conceptam in. Ne sit explicari interesset. Labores perpetua cum at. Id viris
+      docendi denique vim.</p>
+    </div>
+  </div>
+
+  <div id="slide2" class="slide ">
+
+
+    <div class="title">
+      <h1>Slide 2</h1>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
+      postulant mnesarchum cu nam. Malis movet ornatus id vim, feugait detracto est ea, eam
+      eruditi conceptam in. Ne sit explicari interesset. Labores perpetua cum at. Id viris
+      docendi denique vim.</p>
+    </div>
+
+    <img src="https://c2.staticflickr.com/4/3856/32880969533_192c798df3_b.jpg">
+    <img src="https://c1.staticflickr.com/3/2917/32880971653_361f663795_b.jpg">
+  </div>
+
+
+
+
+
+
+  <div id="slide3" class="slide">
+    <div class="title">
+      <h1>Slide 3</h1>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
+      postulant mnesarchum cu nam. Malis movet ornatus id vim, feugait detracto est ea, eam
+      eruditi conceptam in. Ne sit explicari interesset. Labores perpetua cum at. Id viris
+      docendi denique vim.</p>
+    </div>
+  </div>
+
+  <div id="slide4" class="slide header">
+  </div>
+
+  <div class="background-wrap">
+
+    <iframe id="video-bg-elem"   src="https://www.youtube.com/embed/LTvFsTbyILg?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"  allowfullscreen></iframe>
+      </div>
+
+      <div class="content">
+        <h1>LUX QUADS</h1>
+      <p>"Explore The Horizon"</p>
+      </div>
+
+
+</body>
+</html>
