@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Nunito);
 html {  height: 100%;  overflow: hidden;}
 body {   margin:0;  padding:0;	perspective: 1px;	transform-style: preserve-3d;  height: 100%;
-overflow: auto;  overflow-x: hidden;  font-family: Nunito;}
+overflow-y: scroll;  overflow-x: hidden;  font-family: Nunito;}
 h1 {   font-size: 250%}
 p {  font-size: 140%;  line-height: 150%;  color: #333;}
 
@@ -69,6 +69,6 @@ transform: translateZ(-1px) scale(2);  z-index:-1;}
   width: 300px;
   height: 200px;
 
-  overflow: auto; /* has to be scroll, not auto */
+  overflow-y: scroll; /* has to be scroll, not auto */
   -webkit-overflow-scrolling: touch;
 }
