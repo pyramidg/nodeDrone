@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="/stylesheets/main.css"  media="screen" title="no title" charset="utf-8">
 
   </head>
-  <body style="overflow:auto;-webkit-overflow-scrolling:touch" >
+  <body >
 
   <div id="title" class="slide header">
 
