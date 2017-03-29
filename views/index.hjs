@@ -35,11 +35,8 @@
   </div>
 
     <div class="background-wrap ">
-      <iframe class="frame"  src="https://www.youtube.com/embed/LTvFsTbyILg?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen ></iframe>
-      <div class="content">
-      <h2 class="header">"Explore The Horizon"</h2>
-
-      </div>
+      <iframe class="frame"  src="https://www.youtube.com/embed/LTvFsTbyILg?autoplay=1&amp;loop=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen ></iframe>
+      
 
     </div>
 
