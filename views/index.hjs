@@ -30,7 +30,7 @@
   <div id="title" class="slide header">
 
 
-    <h1 class="int">LUX QUADS</h1>
+    <h1 class="header">LUX QUADS</h1>
 
   </div>
 
@@ -85,8 +85,10 @@
 
 
       <div class="content">
-        <h1>LUX QUADS</h1>
-      <p>"Explore The Horizon"</p>
+        <h1 class="header">LUX QUADS</h1>
+      <h2 class="header">"Explore The Horizon"</h2>
+      <p class="">Lorem ipsum dolor sit amet, te qui tale graecis nominati, in timeam officiis tractatos pri. Ut pertinacia signiferumque sea, diceret iudicabit dissentiet ut eum. Vel clita impetus posidonium no. Mea at tantas labore. Noluisse perfecto cum eu. Porro partem singulis ad quo, mei eu stet ignota, suscipit facilisi cum at.
+
       </div>
 
 

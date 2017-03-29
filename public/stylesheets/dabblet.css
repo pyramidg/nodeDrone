@@ -26,12 +26,12 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
   background-position: center;
   background-repeat: no-repeat;
  }
-.header { text-align: center;  font-size:300%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}
+.header { text-align: center;  font-size:300%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px; padding-top: 0px;}
 
 
 
 
-@media screen and (min-width: 375px){ .header { text-align: center;  font-size: 100%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
+@media screen and (min-width: 375px){ .header { text-align: center;  font-size: 150%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
 @media screen and (min-width: 475px){ .header { text-align: center;  font-size: 150%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
@@ -41,7 +41,9 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
 
 @media screen and (min-width: 825px){ .header { text-align: center;  font-size: 250%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
-@media screen and (min-width: 860px){ .header { text-align: center;  font-size: 300%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
+@media screen and (min-width: 860px){ .header { text-align: center;  font-size: 270%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
+
+@media screen and (min-width: 1027px){ .header { text-align: center;  font-size: 275%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
 
 
