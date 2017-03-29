@@ -30,9 +30,19 @@
   <div id="title" class="slide header">
 
 
-    <h1 class="header">LUX QUADS</h1>
+    <h1 class="header ">LUX QUADS</h1>
 
   </div>
+
+    <div class="background-wrap ">
+      <iframe  src="https://www.youtube.com/embed/LTvFsTbyILg?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen ></iframe>
+      <div class="content">
+        <h1 class="header">LUX QUADS</h1>
+      <h2 class="header">"Explore The Horizon"</h2>
+
+      </div>
+
+    </div>
 
   <div id="slide1" class="slide">
     <div class="title">
@@ -77,21 +87,13 @@
   <div id="slide4" class="slide header">
   </div>
 
-  <div class="background-wrap">
-    <iframe  src="https://www.youtube.com/embed/LTvFsTbyILg?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen ></iframe>
 
+
+  <div class="content">
+    <h1 class="header">LUX QUADS</h1>
+  <h2 class="header">"Explore The Horizon"</h2>
 
   </div>
-
-
-      <div class="content">
-        <h1 class="header">LUX QUADS</h1>
-      <h2 class="header">"Explore The Horizon"</h2>
-      <p class="">Lorem ipsum dolor sit amet, te qui tale graecis nominati, in timeam officiis tractatos pri. Ut pertinacia signiferumque sea, diceret iudicabit dissentiet ut eum. Vel clita impetus posidonium no. Mea at tantas labore. Noluisse perfecto cum eu. Porro partem singulis ad quo, mei eu stet ignota, suscipit facilisi cum at.
-
-      </div>
-
-
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" charset="utf-8"></script>
       <!-- Latest compiled and minified JavaScript -->
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
