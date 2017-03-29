@@ -45,6 +45,17 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
 
 @media screen and (min-width: 1027px){ .header { text-align: center;  font-size: 275%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
+@media only screen
+  and (min-width: 320px)
+  and (max-width: 580px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    iframe {
+        display:none;
+    }
+    .background-wrap{
+      display: none;
+    }
+}
 
 
 #title {  background-image: url("https://c1.staticflickr.com/3/2917/32880971653_361f663795_b.jpg");
