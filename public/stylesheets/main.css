@@ -7,84 +7,24 @@ body{
   font-family:monospace;
 }
 
+/* full width responsive video */
 
 .background-wrap {
-  position:scroll;
-  background-size: cover;
-  z-index: -1000;
+  position: relative;
+  padding-bottom: 56.25%;
+  background: red;
+}
+
+
+/* full width responsive video style */
+
+
+.background-wrap iframe {
+  position: absolute;
   width: 100%;
-  height: 800px;
-  overflow: hidden;
-  top: 0;
-  left: 0;
-}
-@media only screen and (min-width: 1750px;) {
-  .background-wrap {
-    position:scroll;
-    background-size: cover;
-    z-index: -1000;
-    width: 100%;
-    height: 750px;
-    overflow: hidden;
-    top: 0;
-    left: 0;
-  }
+  height: 100%;
 }
 
-@media only screen and (min-width: 800px;) {
-  .background-wrap {
-    position:scroll;
-    background-size: cover;
-    z-index: -1000;
-    width: 100%;
-    height: 750px;
-    overflow: hidden;
-    top: 0;
-    left: 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .background-wrap {
-    position:scroll;
-    background-size: cover;
-    z-index: -1000;
-    width: 100%;
-    height: 450px;
-    overflow: hidden;
-    top: 0;
-    left: 0;
-  }
-}
-
-
-
-
-#video-bg-elem {
-  position:;
-  background-size: cover;
-  top: 0;
-  left: 0;
-  min-height:100%;
-  min-width: 100%;
-  width: 100%;
-  height: auto;
-  z-index: 1000;
-}
-
-@media only screen and (max-width: 500px) {
-  #video-bg-elem {
-    position:relative;
-    background-size: cover;
-    top: 0;
-    left: 0;
-    min-height:50%;
-    min-width: 50%;
-    width: 100%;
-    height: auto;
-    z-index: 1000;
-  }
-}
 
 
 
