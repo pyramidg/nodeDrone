@@ -48,9 +48,9 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
 
 
 #title {  background-image: url("https://c1.staticflickr.com/3/2917/32880971653_361f663795_b.jpg");
-background-attachment: fixed;  }
+background-attachment: fixed; }
 #slide1 {  background-image: url("https://c1.staticflickr.com/3/2868/32880969923_4cbfa78dc9_b.jpg");
-transform: translateZ(-1px) scale(2);  z-index:-1;}
+transform: translateZ(-1px) scale(2);  z-index:-1;  }
 #slide2.slide {  background-image: url("https://c1.staticflickr.com/3/2910/33564950221_caf1a9ee63_b.jpg");
 }
 
