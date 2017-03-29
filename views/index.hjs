@@ -6,13 +6,10 @@
 
    <title>User Experience</title>
 
-    <link rel='stylesheet' href='/stylesheets/grayscale.css' />
 
     <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-  <!-- Custom Hover Effects CSS -->
-  <link href="stylesheets/hover-min.css" rel="stylesheet">
 
 
 
@@ -43,8 +40,7 @@
   <div id="slide1" class="slide ">
     <div class="title">
       <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
-      postulant mnesarchum cu nam.</p>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
     </div>
   </div>
 
@@ -53,8 +49,7 @@
 
     <div class="title">
       <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
-      postulant mnesarchum cu nam.</p>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
     </div>
 
     <img src="https://c2.staticflickr.com/4/3856/32880969533_192c798df3_b.jpg">
@@ -69,8 +64,7 @@
   <div id="slide3" class="slide">
     <div class="title">
       <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per,
-      postulant mnesarchum cu nam.</p>
+      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
     </div>
   </div>
 
@@ -78,9 +72,9 @@
   </div>
 
 
-  <div class="content-bottom">
-    <h1 class="header">LUX QUADS</h1>
-  <h2 class="header">"Explore The Horizon"</h2>
+  <div class="content-bottom"><br><br><br>
+    <h1 class="footer ">LUX QUADS</h1>
+
 
 
   </div>
