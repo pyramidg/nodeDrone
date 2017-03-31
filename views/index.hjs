@@ -38,22 +38,27 @@
     </div>
 
   <div id="slide1" class="slide ">
+
     <div class="title">
-      <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
+      <h1></h1>
+      <p>Said to be the Rolex of Drones
+
+DJI consistently rolls out new top of the line models such as the Phantom, Inspire, and Mavic.
+
+</p>
     </div>
+    <img src="https://c2.staticflickr.com/4/3856/32880969533_192c798df3_b.jpg">
+
   </div>
 
   <div id="slide2" class="slide ">
 
-
     <div class="title">
-      <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
+      <h1></h1>
+      <p>Unraveled in its price point and several camera options to choose from the horizon is amazing from the DJI drone.
+</p>
     </div>
 
-    <img src="https://c2.staticflickr.com/4/3856/32880969533_192c798df3_b.jpg">
-    <img src="https://c1.staticflickr.com/3/2917/32880971653_361f663795_b.jpg">
   </div>
 
 
@@ -63,9 +68,11 @@
 
   <div id="slide3" class="slide">
     <div class="title">
-      <h1>Slide</h1>
-      <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit.</p>
+      <h1></h1>
+      <p>A current fan favorite is the DJI Phantom 4 with features like visual tracking, tap to fly, and procession hovering this drone fully lives up to the DJI name.</p>
     </div>
+    <img src="https://c1.staticflickr.com/3/2917/32880971653_361f663795_b.jpg">
+
   </div>
 
   <div id="slide4" class="slide header">
