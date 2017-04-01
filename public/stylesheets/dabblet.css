@@ -26,13 +26,12 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
   background-position: center;
   background-repeat: no-repeat;
  }
-.header { text-align: center;  font-size:15%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px; padding-top: 0px;}
-.footer { text-align: center;  font-size: 375%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
+.header { text-align: center;  font-size:170%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px; padding-top: 0px;}
+.video-text { text-align: center;  font-size: 120%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
 
 
 
-@media screen and (min-width: 375px){ .header { text-align: center;  font-size: 150%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 
 @media screen and (min-width: 475px){ .header { text-align: center;  font-size: 150%;  color: #fff;  margin-top:0px; text-shadow: 0 2px 2px #000; letter-spacing: 10px;padding-top: 60px;}}
 

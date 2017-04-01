@@ -61,3 +61,13 @@ body{
   z-index: 1000;
   background-color: white;
 }
+.text {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 150px;
+  top: 350px;
+}
+.over { font-size:5em; position:absolute; top:20px; left:20px; z-index:2 }
